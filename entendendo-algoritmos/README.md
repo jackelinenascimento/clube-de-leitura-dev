@@ -16,3 +16,9 @@ https://youtu.be/CIvkmQxNg74?si=KCUb-kAEYuMiFy37
 https://www.youtube.com/watch?v=JFw9ihPyrMI
 
 https://www.youtube.com/watch?v=YC9BzwyjlwY
+
+## Funções
+
+Conceito alegórico de funções:
+
+https://youtu.be/wJ6RPUNzFJI?si=xvyocagSGJCk8idh
