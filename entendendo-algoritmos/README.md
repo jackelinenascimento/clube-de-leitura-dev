@@ -22,3 +22,9 @@ https://www.youtube.com/watch?v=YC9BzwyjlwY
 Conceito alegórico de funções:
 
 https://youtu.be/wJ6RPUNzFJI?si=xvyocagSGJCk8idh
+
+## Big O
+
+Função matemática aplicada na computação para analisar a complexidade de um algoritmo:
+
+https://www.youtube.com/watch?v=RGD3iwqDdAE
