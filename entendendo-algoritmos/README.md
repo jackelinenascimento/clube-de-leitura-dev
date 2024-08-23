@@ -1,6 +1,10 @@
 # Livro Entendendo Algoritmos
 Lista de material dos encontros do Clube de Leitura Dev 
 
+## Gravações:
+
+Capítulo 1: ttps://www.youtube.com/watch?v=lChdaK0MDWQ
+
 ## Fundamentos Matemáticos
 
 Uma boa maneira de iniciar os estudos em algoritmos e revermos alguns conceitos matemáticos:
