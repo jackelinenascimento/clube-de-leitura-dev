@@ -3,7 +3,7 @@ Lista de material dos encontros do Clube de Leitura Dev
 
 ## Gravações:
 
-Capítulo 1: ttps://www.youtube.com/watch?v=lChdaK0MDWQ
+Capítulo 1: https://www.youtube.com/watch?v=lChdaK0MDWQ
 
 ## Fundamentos Matemáticos
 
